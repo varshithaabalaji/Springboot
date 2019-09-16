@@ -1,0 +1,3 @@
+EurekaREgistry port:8771
+ItemService port:4044
+TopSportBrandEdgeService :3033
